@@ -1,0 +1,3 @@
+[submodule "linux_i2c"]
+	path = linux_i2c
+	url = https://github.com/hu-submodule-1/linux_i2c.git
